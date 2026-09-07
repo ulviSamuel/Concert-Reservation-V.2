@@ -106,4 +106,4 @@ The repository name identifies the work as a submission, and the two database du
 
 ## License
 
-No license file or explicit license declaration is present in the repository. Licensing status requires human review.
+This project is shared for educational and portfolio purposes. All rights reserved unless otherwise stated.
